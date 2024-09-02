@@ -1,0 +1,134 @@
+---
+- summary: |
+    
+  requirement: |
+    Пользователь должен иметь возможность искать товары по ключевому слову
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+    
+- summary: |
+    
+  requirement: |
+    Пользователь должен иметь возможность фильтровать товары
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  - summary: |
+    
+  requirement: |
+    Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о товаре
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+  
+  
+  - summary: |
+    
+  requirement: |
+    Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  
+  - summary: |
+    
+  requirement: |
+    Сайт должен иметь мобильную версию
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  
+  - summary: |
+    
+  requirement: |
+    Сайт нужно протестировать на совместимость с последними версиями браузеров
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  
+  - summary: |
+    
+  requirement: |
+    Сайт должен быть доступен на различных устройствах
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  
+  - summary: |
+    
+  requirement: |
+    Пользователь не должен иметь возможность добавить в корзину большее количество товара, чем есть в наличии
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  
+  - summary: |
+    
+  requirement: |
+    При попытке пользователя добавить в корзину больше единиц товара, чем есть в наличии, должно выводиться окно с ошибкой
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
+
+  
+  
+  - summary: |
+    
+  requirement: |
+    При оформлении заказа должны быть поля ввода для контактных данных: телефон и/или емейл, имя покупателя. 
+  prerequisites: |
+    
+  test-data: |
+    
+  steps:
+ 
+  expected-result: |
